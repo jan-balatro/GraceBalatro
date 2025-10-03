@@ -1,0 +1,18 @@
+{
+  "id": "gracebalatro",
+  "name": "GraceBalatro",
+  "author": [
+    "Jan"
+  ],
+  "description": "SIMON I'M GRACING IT IN BALATRO",
+  "prefix": "gracebal",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "aa3366",
+  "badge_text_colour": "FFFFFF",
+  "display_name": "Grace X Balatro",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
